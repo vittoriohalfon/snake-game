@@ -1,6 +1,5 @@
 # SNAKE GAME
 
-# Pygame Snake Game
 This script is a simple implementation of the classic Snake game using the Pygame library. The player controls a snake, moving it around the screen to eat food while avoiding hitting the walls or itself.
 
 ## Requirements
